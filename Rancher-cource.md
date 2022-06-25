@@ -1,5 +1,4 @@
-```flow
-st=>start: Ранее не встречал K8S
-op1=>operation: 1 курс
-e=>end:
+```mermaid
+flowchart TD
+id0([Ранее не встречал K8S]) --> id1([KUB201 Kubernetes Administration 2 days])
 ```
